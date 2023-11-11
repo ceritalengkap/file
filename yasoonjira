@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:status.yasoon.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://status.yasoon.com"/>
+  <link rel="self" type="application/atom+xml" href="https://status.yasoon.com/history.atom"/>
+  <title>yasoon Status - Incident History</title>
+  <updated>2023-11-10T21:28:02+01:00</updated>
+  <author>
+    <name>yasoon</name>
+  </author>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/19032741</id>
+    <published>2023-11-07T09:44:18+01:00</published>
+    <updated>2023-11-07T09:44:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/h09gkj0gfmw7"/>
+    <title>Outlook Calendars for Confluence app inactive and cannot be activated</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;09:44&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - After monitoring the situation, it appears that the app will not re-enable itself automatically, but this can be done manually via "Manage apps". We are working with Atlassian to re-enable the app for all customers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;16:33&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - A fix has been implemented. Currently a manual update of the app is required via "Manage apps", but should be picked up automatically after 24h.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;16:32&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented. Currently a manual update of the app is required via "Manage apps", but should be picked up automatically after 24h.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;10:15&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified a deployment issue with our Outlook calendar app. The app can currently not be used, as it cannot be activated since the last update. We are working to provide an update today that will fix the issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/18611263</id>
+    <published>2023-09-26T13:30:00+02:00</published>
+    <updated>2023-09-26T14:44:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/6sb00qzkjqr1"/>
+    <title>JSM chat notifications not posted</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Some JSM chat notifications could not be delivered due to a misconfigured Azure Bot.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/18246817</id>
+    <published>2023-08-24T18:04:37+02:00</published>
+    <updated>2023-08-24T18:04:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/ddwj7vrlj0cy"/>
+    <title>Todo &amp; Smart Connect for Jira not reacting to Jira changes</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;18:04&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:56&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/18245989</id>
+    <published>2023-08-24T10:00:00+02:00</published>
+    <updated>2023-08-24T15:13:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/1gt5m5h4q99j"/>
+    <title>Webhooks reliability issues</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Webhook handling was degraded by some workers with incorrect initialization.&lt;br /&gt;&lt;br /&gt;Affected dates&lt;br /&gt;2023/08/23 2pm-4pm UTC&lt;br /&gt;2023/08/24 8am-11am UTC&lt;br /&gt;&lt;br /&gt;Impact:&lt;br /&gt;Roughly 20% of handled webhooks have been affected by the incident. That lead to missing Todos synced or missing channel notifications in Teams.&lt;br /&gt;&lt;br /&gt;Fix:&lt;br /&gt;Initialization script has been updated and made more robust. We are monitoring the situation&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/17480394</id>
+    <published>2023-06-05T21:16:55+02:00</published>
+    <updated>2023-06-05T21:16:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/wfkglrpt0fhl"/>
+    <title>Microsoft Graph services outtage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;21:16&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:04&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Microsoft is currently experiencing an outage across multiple services, which also impacts our integrations. You might not be able to create Microsoft Teams chats or channel conversations and other areas might be impacted as well.&lt;br /&gt;&lt;br /&gt;https://admin.microsoft.com/Adminportal/Home#/servicehealth/:/alerts/MO571683&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/17471976</id>
+    <published>2023-06-04T23:48:47+02:00</published>
+    <updated>2023-06-04T23:48:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/l2tt0rg8xdnm"/>
+    <title>Database upgrade and migration</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;23:48&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - Maintenance has been completed successfully.&lt;br /&gt;If you have issues with your login, data are missing or your connection seems to be broken, please restart your browser to clear the caches.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;23:47&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Verifying&lt;/strong&gt; - Verification is currently underway for the maintenance items.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;20:58&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Apps will be set into a read-only mode during the maintenance.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/17288706</id>
+    <published>2023-05-18T14:33:15+02:00</published>
+    <updated>2023-05-18T14:33:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/hx9wd3cx75n9"/>
+    <title>Teams and potentially other functions interrupted</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:33&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;11:05&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Since our morning deployment around 8AM CEST, we have been observing increased errors when working with the Teams functionality of our app. We have not yet identified the root cause, but have rolled back the change and everything should be working again.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/16092182</id>
+    <published>2023-02-12T09:17:23+01:00</published>
+    <updated>2023-02-12T09:17:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/xf3qk39zdqh2"/>
+    <title>Calendar not accessible in Microsoft 365 for Jira</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:17&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - A fix for this incident has been released on Friday and should be available for everyone as of now - sorry for the inconveniences.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;17:55&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified an issue with our calendar view in our Microsoft 365 for Jira app. An fix is currently being deployed and should be available in the next 24 hours.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/15809393</id>
+    <published>2023-01-10T13:31:12+01:00</published>
+    <updated>2023-01-10T13:31:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/z8zjzcnt5h23"/>
+    <title>Viewing shared chats &amp; creating calendar events in shared calendars is currently impacted</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:31&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have released a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;11:37&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have located the cause of the issue and are in the process of rolling out a fix&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/13781352</id>
+    <published>2022-11-27T15:04:15+01:00</published>
+    <updated>2022-11-28T20:00:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/qf0378tbk81x"/>
+    <title>Server outtage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:04&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We are still investigating the root cause of the Redis issue but the service has been fully restored for now.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:11&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have identified an out of memory error in our main Redis instance, resulting in a cascading error. We have temporarily increased the memory to restore the service and will be starting to look into the root cause.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;08:20&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our apps are currently unavailable due to an outtage - we are looking into it and will provide an update asap.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/12604079</id>
+    <published>2022-10-24T16:30:00+02:00</published>
+    <updated>2022-10-25T11:34:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/tys9v7ng4wm0"/>
+    <title>Teams for Jira not accessible</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Using the Teams features in Jira currently only shows “The page has expired, please reload the page.”&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/12011924</id>
+    <published>2022-10-14T12:09:33+02:00</published>
+    <updated>2022-10-14T12:09:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/g414xnbrxlxq"/>
+    <title>App not active in Jira Cloud for some customers</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:09&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:07&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:07&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We have implemented a fix and it should be working again for all customers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;11:32&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are still working on a fix - as a manual workaround you can go to the admin settings and activate the app features manually&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are currently working on a fix that all the apps are not active in Jira Cloud (except Teams).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/9024249</id>
+    <published>2022-01-07T16:11:43+01:00</published>
+    <updated>2022-01-07T16:11:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/p5v93z5qn6sp"/>
+    <title>Creating and updating Confluence calendars is currently not possible</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:11&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jan &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;11:03&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/6537344</id>
+    <published>2021-03-16T07:02:00+01:00</published>
+    <updated>2021-03-16T07:02:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/z9bp3xst94z2"/>
+    <title>Login issues due to Microsoft outage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;07:02&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:04&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - AzureAD is currently having a major outage, and it's not possible to login / work with our apps. Please follow @AzureStatus on Twitter or check your Microsoft 365 dashboard for updates.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/6451738</id>
+    <published>2021-03-04T16:38:28+01:00</published>
+    <updated>2021-03-04T16:38:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/fbc9q5j1s6n1"/>
+    <title>Authentication issues with Jira Cloud</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;16:38&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has mostly been resolved, please follow the Atlassian Statuspage for more info.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:20&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue is related to an Atlassian outage, please follow their status page as well: https://jira-software.status.atlassian.com/&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:06&lt;/var&gt; CET&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue where users are not able to login from Outlook.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.yasoon.com,2005:Incident/5224559</id>
+    <published>2020-10-01T12:46:05+02:00</published>
+    <updated>2020-10-01T12:46:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.yasoon.com/incidents/w90m99sjbkt7"/>
+    <title>Partial Microsoft Exchange outage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;12:46&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;09:34&lt;/var&gt; CEST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Affecting Outlook Meetings for Jira and others&lt;br /&gt;---&lt;br /&gt;Users can't access Exchange Online&lt;br /&gt;EX223208, EX223231, EX223235&lt;/p&gt;</content>
+  </entry>
+</feed>
